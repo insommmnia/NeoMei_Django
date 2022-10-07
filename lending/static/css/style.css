@@ -10,7 +10,7 @@
     font-family: OpenSans;
     src: url(../fonts/OpenSans-Light.ttf);
     font-display: swap;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -665,6 +665,7 @@ body {
 @media(max-width: 480px) {
     .hero {
         padding-top: 15vh;
+        margin-top: 0px;
     }
     .header-logo {
         font-size: 30px;
